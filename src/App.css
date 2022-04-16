@@ -39,4 +39,34 @@
 *{
 background-color: teal;
 color: whitesmoke;
+font-family: Square Peg;
+font-weight: 900px;
+font-size:70px 
 }
+input{
+background-color: white;
+font-family: Whisper,cursive;
+color: black;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 100px;
+
+}
+.inp{
+  height: 90px;
+  border-radius: 30px;
+ width: auto;
+font-size: 25px;
+display: flex;
+justify-content: center;
+align-items: center;
+position: relative;} 
+.todo-input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+margin-top: 50px;
+}
+
+
